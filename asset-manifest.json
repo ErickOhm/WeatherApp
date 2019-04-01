@@ -1,7 +1,7 @@
 {
   "main.css": "/WeatherApp/static/css/main.0f8e0294.chunk.css",
-  "main.js": "/WeatherApp/static/js/main.8ac638b8.chunk.js",
-  "main.js.map": "/WeatherApp/static/js/main.8ac638b8.chunk.js.map",
+  "main.js": "/WeatherApp/static/js/main.cb3ff29e.chunk.js",
+  "main.js.map": "/WeatherApp/static/js/main.cb3ff29e.chunk.js.map",
   "static/js/1.c52bb851.chunk.js": "/WeatherApp/static/js/1.c52bb851.chunk.js",
   "static/js/1.c52bb851.chunk.js.map": "/WeatherApp/static/js/1.c52bb851.chunk.js.map",
   "runtime~main.js": "/WeatherApp/static/js/runtime~main.a65dfe9f.js",
@@ -10,6 +10,6 @@
   "static/media/app.scss": "/WeatherApp/static/media/duotone.40c71e92.png",
   "static/media/style.scss": "/WeatherApp/static/media/sunny-weather.18533a59.jpeg",
   "index.html": "/WeatherApp/index.html",
-  "precache-manifest.603a52717b5a9a689d7481d3d899764b.js": "/WeatherApp/precache-manifest.603a52717b5a9a689d7481d3d899764b.js",
+  "precache-manifest.3913dd34f683b4b55d5c39c1d505109d.js": "/WeatherApp/precache-manifest.3913dd34f683b4b55d5c39c1d505109d.js",
   "service-worker.js": "/WeatherApp/service-worker.js"
 }
