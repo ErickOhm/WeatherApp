@@ -4,23 +4,27 @@ self.__precacheManifest = [
     "url": "/WeatherApp/static/media/sunny-weather.18533a59.jpeg"
   },
   {
+    "revision": "40c71e92d9ee7f5b864167da964e652a",
+    "url": "/WeatherApp/static/media/duotone.40c71e92.png"
+  },
+  {
     "revision": "a65dfe9f73dd55aa5b62",
     "url": "/WeatherApp/static/js/runtime~main.a65dfe9f.js"
   },
   {
-    "revision": "bd5354bd294b661f9390",
-    "url": "/WeatherApp/static/js/main.bd5354bd.chunk.js"
+    "revision": "1eee44823c9bea1e18bc",
+    "url": "/WeatherApp/static/js/main.1eee4482.chunk.js"
   },
   {
     "revision": "c52bb851062a28c1c35b",
     "url": "/WeatherApp/static/js/1.c52bb851.chunk.js"
   },
   {
-    "revision": "bd5354bd294b661f9390",
-    "url": "/WeatherApp/static/css/main.85946b57.chunk.css"
+    "revision": "1eee44823c9bea1e18bc",
+    "url": "/WeatherApp/static/css/main.a6b025b4.chunk.css"
   },
   {
-    "revision": "286282b9eea5298ef3b305ba74cb68a2",
+    "revision": "e31e6d7554ab7e407993baa260e93ff4",
     "url": "/WeatherApp/index.html"
   }
 ];

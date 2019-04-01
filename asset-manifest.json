@@ -1,14 +1,15 @@
 {
-  "main.css": "/WeatherApp/static/css/main.85946b57.chunk.css",
-  "main.js": "/WeatherApp/static/js/main.bd5354bd.chunk.js",
-  "main.js.map": "/WeatherApp/static/js/main.bd5354bd.chunk.js.map",
+  "main.css": "/WeatherApp/static/css/main.a6b025b4.chunk.css",
+  "main.js": "/WeatherApp/static/js/main.1eee4482.chunk.js",
+  "main.js.map": "/WeatherApp/static/js/main.1eee4482.chunk.js.map",
   "static/js/1.c52bb851.chunk.js": "/WeatherApp/static/js/1.c52bb851.chunk.js",
   "static/js/1.c52bb851.chunk.js.map": "/WeatherApp/static/js/1.c52bb851.chunk.js.map",
   "runtime~main.js": "/WeatherApp/static/js/runtime~main.a65dfe9f.js",
   "runtime~main.js.map": "/WeatherApp/static/js/runtime~main.a65dfe9f.js.map",
+  "static/css/main.a6b025b4.chunk.css.map": "/WeatherApp/static/css/main.a6b025b4.chunk.css.map",
+  "static/media/app.scss": "/WeatherApp/static/media/duotone.40c71e92.png",
   "static/media/style.scss": "/WeatherApp/static/media/sunny-weather.18533a59.jpeg",
-  "static/css/main.85946b57.chunk.css.map": "/WeatherApp/static/css/main.85946b57.chunk.css.map",
   "index.html": "/WeatherApp/index.html",
-  "precache-manifest.3042d5791c695e220d89f269358234e9.js": "/WeatherApp/precache-manifest.3042d5791c695e220d89f269358234e9.js",
+  "precache-manifest.652ce074b8e6a68ee5f95ac52f75bb9c.js": "/WeatherApp/precache-manifest.652ce074b8e6a68ee5f95ac52f75bb9c.js",
   "service-worker.js": "/WeatherApp/service-worker.js"
 }
